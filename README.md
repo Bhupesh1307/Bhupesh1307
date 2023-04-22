@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/RLK39FwTE9KcgK8EA)
+![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
 <h1 align="center">Hi 👋, I'm Bhupesh Chaubey</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif">
