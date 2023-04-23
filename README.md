@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT89LaxTjB8xTobfBtx83T1KQTD81imZYIFww&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Bhupesh Chaubey</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/1f/85/e11f8529f2151c06881ee4c98afaec72.gif">
