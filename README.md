@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **bhupeshchaubey.bc@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I am Tech-Genius**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
